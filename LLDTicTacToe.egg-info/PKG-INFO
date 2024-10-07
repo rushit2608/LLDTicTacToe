@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: LLDTicTacToe
+Version: 1.0
+Summary: A Low level Design with code of Tictactoe
+Home-page: https://github.com/rushit2608/LLDTickTacToe
+Author: Rushikesh Tonde
+Author-email: rushisa123@gmail.com
+License: UNKNOWN
+Description: # LLDTickTacToe
+        
+        # LLDTickTacToe
+        
+        
+        # Main Classes 
+        1.PieceType
+        2.Board
+        3.Player
+        4.GameClass (TickTacToe)
+        
+        # How to run?
+        ### STEPS:
+        
+        Clone the repository
+        
+        ```bash
+        https://github.com/rushit2608/LLDTickTacToe.git
+        ```
+        
+        python3 play.py
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

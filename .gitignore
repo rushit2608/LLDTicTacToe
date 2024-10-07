@@ -1,0 +1,5 @@
+# Ignore egg-info directory
+../LLDTicTacToe.egg-info/
+
+# Ignore __pycache__ directories
+__pycache__/
