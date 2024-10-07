@@ -22,7 +22,7 @@ Welcome to the LLDTickTacToe project! This is a simple implementation of the cla
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rushit2608/LLDTickTacToe.git
+   git clone https://github.com/rushit2608/LLDTicTacToe.git
    ```
 
    ***python3 play.py***

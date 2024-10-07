@@ -13,5 +13,5 @@ setup(
     description='A Low level Design with code of Tictactoe',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/rushit2608/LLDTickTacToe',
+    url='https://github.com/rushit2608/LLDTicTacToe',
 )
